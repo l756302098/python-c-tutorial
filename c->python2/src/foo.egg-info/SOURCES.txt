@@ -1,0 +1,8 @@
+README.md
+setup.py
+src/foo/__init__.py
+src/foo/great_module.py
+src/foo.egg-info/PKG-INFO
+src/foo.egg-info/SOURCES.txt
+src/foo.egg-info/dependency_links.txt
+src/foo.egg-info/top_level.txt

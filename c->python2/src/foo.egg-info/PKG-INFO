@@ -1,0 +1,10 @@
+Metadata-Version: 1.0
+Name: foo
+Version: 0.1
+Summary: A python lib for test
+Home-page: https://github.com/test/foo
+Author: test
+Author-email: test@me.com
+License: MIT
+Description: UNKNOWN
+Platform: UNKNOWN
