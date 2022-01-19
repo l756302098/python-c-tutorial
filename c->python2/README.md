@@ -1,5 +1,4 @@
-# python-c-tutorial
-c 调用 python
+# c 调用 python
 
 # install python lib
 sudo python setup.py install  

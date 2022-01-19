@@ -1,5 +1,4 @@
-# python-c-tutorial
-c 调用 python
+# c 调用 python
 
 # python 2.7
 gcc my_python2.c -o my_python2 -I/usr/include/python2.7/ -lpython2.7  
